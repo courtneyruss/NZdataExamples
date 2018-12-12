@@ -25,6 +25,19 @@ Author Contact: @thoughtfulnz on Twitter
 ```
 
 ```
+Data Description: New Zealand Election Study
+Data URL: http://www.nzes.org/exec/show/data
+Data Licence: http://www.nzes.org/exec/show/data
+Example Title: Walkthrough example of using New Zealand Election Study (NZES) data in R
+Example Description: Some R getting started code using New Zealand Election Study SPSS files
+Example Code URL: https://github.com/thoughtfulbloke/NZESwalkthrough
+Example Code Licence: MIT License
+Example Product URL:
+Example Software: R
+Author Contact: @thoughtfulnz on Twitter
+```
+
+```
 Data Description: 
 Data URL: 
 Data Licence: 
