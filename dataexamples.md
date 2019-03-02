@@ -77,14 +77,14 @@ Author Contact: @xurizaemon on Twitter
 ```
 
 ```
-Data Description:
-Data URL:
-Data Licence:
-Example Title:
-Example Description:
-Example Code URL:
-Example Code Licence:
-Example Product URL:
-Example Software:
-Author Contact:
+Data Description: Stats NZ Tourism
+Data URL: http://archive.stats.govt.nz/infoshare/Default.aspx
+Data Licence: Crown Copyright
+Example Title: Dunedin Tourism Accomidation
+Example Description: An analysis of the Dunedin occupancy rates of accomidation.
+Example Code URL: https://github.com/campbead/TourismTutorial
+Example Code Licence: CC-BY-4.0
+Example Product URL: https://www.rstudio.com/
+Example Software: RStudio
+Author Contact: @campbead on Twitter
 ```
