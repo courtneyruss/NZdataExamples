@@ -64,6 +64,19 @@ Author Contact: @xurizaemon on Twitter
 ```
 
 ```
+Data Description: Wikimedia SPARQL example
+Data URL: https://query.wikidata.org/
+Data Licence: CC0
+Example Title: WikiData: People born in Otago
+Example Description: RStudio plots of WikiData SPARQL query
+Example Code URL: https://github.com/xurizaemon/Wikidata-SPARQL-example
+Example Code Licence: CC-BY-4.0
+Example Product URL: https://www.rstudio.com/
+Example Software: RStudio
+Author Contact: @xurizaemon on Twitter
+```
+
+```
 Data Description:
 Data URL:
 Data Licence:
