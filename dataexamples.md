@@ -45,21 +45,33 @@ Example Title: Processing and visualising Wellington Cycle counter data in R/RSt
 Example Description: Some R code walking through processing and visualising cycle counter data
 Example Code URL: https://github.com/jmarshallnz/cycle_wellington
 Example Code Licence: MIT License
-Example Product URL: 
+Example Product URL:
 Example Software: R
 Author Contact: @jmarshallnz on Twitter
 ```
 
 ```
-Data Description: 
-Data URL: 
-Data Licence: 
-Example Title: 
-Example Description: 
-Example Code URL: 
-Example Code Licence: 
-Example Product URL: 
-Example Software: 
-Author Contact: 
+Data Description: NZTA Crash Analysis System (CAS) data
+Data URL: https://opendata-nzta.opendata.arcgis.com/datasets/crash-analysis-system-cas-data
+Data Licence: CC-BY-4.0
+Example Title: NZTA Crash Analysis System example
+Example Description: RStudio plots of NZTA Crash Analysis System data
+Example Code URL: https://github.com/xurizaemon/NZTA-CAS-example
+Example Code Licence: CC-BY-4.0
+Example Product URL: https://www.rstudio.com/
+Example Software: RStudio
+Author Contact: @xurizaemon on Twitter
 ```
 
+```
+Data Description:
+Data URL:
+Data Licence:
+Example Title:
+Example Description:
+Example Code URL:
+Example Code Licence:
+Example Product URL:
+Example Software:
+Author Contact:
+```
