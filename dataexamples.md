@@ -88,3 +88,15 @@ Example Product URL: https://www.rstudio.com/
 Example Software: RStudio
 Author Contact: @campbead on Twitter
 ```
+
+```
+Data Description: This is a data set containing the tier 1 statistics 2017/18: New Zealand Health Survey - specifically the percentages for the current and previous surveys so that change over time can be investigated.  See https://minhealthnz.shinyapps.io/nz-health-survey-2017-18-annual-data-explorer/_w_b8e82abf/#!/download-data-sets for related data and see also: https://www.health.govt.nz/publication/tier-1-statistics-2017-18-new-zealand-health-survey for a more detailed explanation
+Data URL: https://minhealthnz.shinyapps.io/nz-health-survey-2017-18-annual-data-explorer/_w_b8e82abf/data/nz-health-survey-2017-18-annual-update-time-series.csv
+Data Licence: Owned by the Ministry of Health and licensed for reuse under a Creative Commons Attribution 4.0 International Licence.
+Example Title: New Zealand Ministry of Health Annual Health Survey - Smoking
+Example Description: A very brief/superficial look into the smoking prevalence from the Ministry of Health Annual Health Survey Change Over Time dataset, looking from 2006-2017.
+Example Code URL: https://murraycadzow.github.io/nz_moh_annual_survey/MoH_nz_health_survey.html
+Example Code Licence: MIT License
+Example Software: The example uses the R programming language with the tidyverse package (v1.2.1)
+Author Contact: @murraycadzow on Twitter
+```
