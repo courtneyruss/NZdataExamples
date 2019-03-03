@@ -100,3 +100,29 @@ Example Code Licence: MIT License
 Example Software: The example uses the R programming language with the tidyverse package (v1.2.1)
 Author Contact: @murraycadzow on Twitter
 ```
+
+```
+Data Description: Data from Ministry of Health's Pharmaceutical Collection
+Data URL: https://minhealthnz.shinyapps.io/datapharm-beta
+Data Licence: Creative Commons Attribution 4.0 International
+Example Title: Every perscription in New Zealand
+Example Description: Using pharmac's data on perscriptions
+Example Code URL: https://github.com/thoughtfulbloke/phrmac_example/
+Example Code Licence: MIT License
+Example Product URL:
+Example Software: R
+Author Contact: @thoughtfulnz on Twitter
+```
+
+```
+Data Description: 
+Data URL: 
+Data Licence: 
+Example Title: 
+Example Description: 
+Example Code URL: 
+Example Code Licence: 
+Example Product URL:
+Example Software: 
+Author Contact: 
+```
