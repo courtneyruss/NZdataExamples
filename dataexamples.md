@@ -39,8 +39,8 @@ Author Contact: @thoughtfulnz on Twitter
 
 ```
 Data Description: Wellington cycle count data
-Data URL: https://www.transportprojects.org.nz/cycle-count-data/
-Data Licence: https://www.transportprojects.org.nz/cycle-count-data/
+Data URL: https://catalogue.data.govt.nz/dataset/cycle-count-data
+Data Licence: Creative Commons Attribution 4.0 International licence
 Example Title: Processing and visualising Wellington Cycle counter data in R/RStudio
 Example Description: Some R code walking through processing and visualising cycle counter data
 Example Code URL: https://github.com/jmarshallnz/cycle_wellington
