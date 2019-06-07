@@ -115,6 +115,19 @@ Author Contact: @thoughtfulnz on Twitter
 ```
 
 ```
+Data Description: Data from Global Fishing Watch
+Data URL: https://globalfishingwatch.org/datasets-and-code/vessel-identity/
+Data Licence: Creative Commons Attribution-ShareAlike 4.0 International
+Example Title: Which Countries have Large Scale Fishing Vessels?
+Example Description: Analysis and map of global fishing vessels
+Example Code URL: https://kimnewzealand.github.io/2019/06/05/vessel-analysis/
+Example Code Licence: Creative Commons Attribution-ShareAlike 4.0 International
+Example Product URL: https://www.rstudio.com/
+Example Software: R with tidyverse, sf, rnaturalearth and biscale packages
+Author Contact: @kim_fitter on Twitter
+```
+
+```
 Data Description: 
 Data URL: 
 Data Licence: 
