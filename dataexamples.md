@@ -122,7 +122,7 @@ Example Title: Which Countries have Large Scale Fishing Vessels?
 Example Description: Analysis and map of global fishing vessels
 Example Code URL: https://kimnewzealand.github.io/2019/06/05/vessel-analysis/
 Example Code Licence: Creative Commons Attribution-ShareAlike 4.0 International
-Example Product URL: https://www.rstudio.com/
+Example Product URL: https://kimnewzealand.github.io/2019/06/05/vessel-analysis/
 Example Software: R with tidyverse, sf, rnaturalearth and biscale packages
 Author Contact: @kim_fitter on Twitter
 ```
