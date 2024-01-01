@@ -128,6 +128,19 @@ Author Contact: @kim_fitter on Twitter
 ```
 
 ```
+Data Description: Data from Ministry of Health IMPB Concordance Files
+Data URL: https://github.com/minhealthnz/iwi-maori-partnership-boards/tree/main/data
+Data Licence: CC-BY-4.0
+Example Title: IMPB Lookup
+Example Description: Taking a street address and mapping it to an IMPB area
+Example Code URL: https://github.com/courtneyruss/impb_mapping/blob/main/app.R
+Example Code Licence: CC0
+Example Product URL: https://courtneyruss.shinyapps.io/impb_geom/
+Example Software: R
+Author Contact: https://www.datascienceportfol.io/CourtneyRuss
+```
+
+```
 Data Description: 
 Data URL: 
 Data Licence: 
